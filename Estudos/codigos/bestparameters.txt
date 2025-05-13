@@ -1,0 +1,11 @@
+Melhores parâmetros para S&P 500:
+{'look_back': 53, 'units': 116, 'dropout': 0.3296817551908157, 'num_layers': 1, 'batch_size': 16, 'epochs': 49}
+
+ Melhores parâmetros para Itaú Unibanco:
+{'look_back': 47, 'units': 94, 'dropout': 0.215672559117348, 'num_layers': 2, 'batch_size': 32, 'epochs': 41}
+
+Melhores parâmetros para IBOVESPA:
+{'look_back': 45, 'units': 107, 'dropout': 0.13092334630550548, 'num_layers': 2, 'batch_size': 32, 'epochs': 50}
+
+Melhores parâmetros para Apple:
+{'look_back': 47, 'units': 68, 'dropout': 0.13918716424300842, 'num_layers': 1, 'batch_size': 32, 'epochs': 42}
